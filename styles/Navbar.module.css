@@ -1,0 +1,63 @@
+.Navbar{
+    padding: 1px;
+    margin-bottom: 1px;
+    border-bottom: 0.9px solid rgba(44, 43, 43, 0.185);
+    background-color: white;
+   max-width: 100%;
+   position: sticky;
+   top: 0;
+   z-index: 999;
+  
+
+}
+.flex{
+    display: flex;
+    font-family: 'Pacifico', cursive;
+}
+.font{
+    margin: 17px;
+    margin-left: 15%;   
+}
+
+.svgs{
+    margin-top: 15px;
+    margin-left: 2%;
+    height: 1rem;
+    font-size: 3.75em;
+    
+    
+}
+.svgss{
+    margin-top: 15px;
+    margin-left: 2%;
+    height: 1rem;
+    font-size: 3.75em;
+    
+    
+}
+
+.createpost{
+    transform: translate(-30px,15px);
+   
+}
+.svgss:hover{
+    color: rgb(126, 177, 160);
+}
+.avatar{
+    margin-top: 10px;
+    margin-left: 2%;
+   
+}
+
+   
+  
+.bg{
+    align-items: center;
+    display: flex;
+    margin-top: 10px;
+    margin-left:350px;
+    height: 40px;
+    background-color: rgba(182, 230, 230, 0.445);
+    border-radius: 3px 3px 3px 3px;
+    
+}

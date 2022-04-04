@@ -1,0 +1,81 @@
+.stick{
+   position: fixed;
+  top: 50px;
+  
+}
+.avatar{
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+.right{
+    display: flex;
+    position: relative;
+   left: 80px;
+   bottom: 10px;
+}
+.right h5{
+    position: relative;
+    left: 90px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: rgb(2, 184, 250);
+}
+.right h4{
+    font-weight: 500;
+}
+.right h4::after{
+    content: "Abdul Rahman Khan";
+    display: block;
+    font-weight: 400;
+    color: gray;
+}
+.display{
+    
+    color: gray;
+    position: relative;
+    left: 30px;
+    letter-spacing: 0px;
+    bottom: 10px;
+}
+.display h4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.display::after{
+    content: "See All";
+    font-weight: 400;
+    position: relative;
+    left: 280px;
+    bottom: 40px;
+    color:rgb(2, 184, 250) ;
+}
+.avata{
+    position: relative;
+    margin-bottom: 50px;
+    left: 40px;
+}
+.list{
+    position: relative;
+    left: 110px;
+    bottom: 440px;
+    
+}
+.list h6{
+    position: relative;
+    bottom: 20px;
+    color: gray;
+}
+.list h4{
+    font-weight: 600;
+}
+.fllow{
+    position: relative;
+    left: 330px;
+    bottom: 860px;
+}
+.followlist{
+    margin-bottom: 70px;
+    color: rgb(16, 179, 243);
+    font-weight: 600;
+}

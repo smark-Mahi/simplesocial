@@ -1,0 +1,15 @@
+
+.container{
+    background-color: rgba(141, 137, 137, 0.144);
+    padding: 0;
+    margin: 0;
+  
+}
+
+@media (max-width:780px)
+{
+    .leftbar,.rightbar{
+        display: none;
+    }
+
+}

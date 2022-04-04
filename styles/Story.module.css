@@ -1,0 +1,31 @@
+.container{
+    max-width: 100%;
+    background-color: white;
+    margin-top: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.205);
+   height: 100px;
+   
+}
+.flex{
+    display: flex;
+}
+.flex1{
+    display: flex;
+   
+   
+}
+.avatar{
+    margin-top: 20px;
+    margin-left: 2%;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid red;
+   
+
+}
+.hsix{
+    margin-top: 5px;
+    margin-left: 13px;
+
+}
+

@@ -1,0 +1,12 @@
+.flx{
+    display: flex;
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+.hfour{
+    margin-left: 3px;
+    height: 30px;
+    width: 20%;
+    border: 1px solid black;
+}

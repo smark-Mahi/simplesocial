@@ -1,0 +1,54 @@
+.avatar{
+    margin-top: 30px;
+   margin-left: 35px; 
+   font-size: large;
+}
+
+.flex{
+    display: inline-block;
+}
+.setting{
+    margin-top: 30px;
+    
+}
+.status{
+    display: flex;
+   padding-left:60% ;
+  position: relative;
+  bottom: 180px;
+  word-spacing: 10px;
+   
+}
+.hsix{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 30;
+}
+.htwo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    padding-left:60% ;
+    position: relative;
+    bottom: 190px;
+}
+.htwo h5{
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+.stats{
+    margin-right: 40px;
+    letter-spacing: 1px;
+    word-spacing: 70px;
+}
+.h2{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.233);
+    position: relative;
+    bottom: 140px;
+  
+}
+@media (max-width:780px)
+{
+    .leftbar,.rightbar{
+        display: none;
+    }
+
+}

@@ -1,0 +1,45 @@
+.Avatar{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    border-radius: 50%;
+    border: 1px solid red;
+}
+.title{
+    position: relative;
+    left: 70px;
+    bottom: 50px;
+}
+.desc{
+    position: relative;
+    left: 60px;
+    bottom: 70px;
+    font-weight: 400;
+}
+.dots{
+    position: relative;
+   left: 600px;
+   bottom: 120px;
+}
+.imgs{
+    white-space: nowrap;
+ position: relative;
+ bottom: 400px;
+
+}
+.red{
+    background: transparent;
+    border: none;
+    font-size: 88px;
+    outline: none;
+    color: gray;
+}
+.red:hover{
+    cursor: pointer;
+}
+.cont{
+    color: red;
+}
+.cont2{
+    color: gray;
+}
